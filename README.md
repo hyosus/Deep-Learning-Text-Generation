@@ -1,4 +1,4 @@
-# Deep-Learning-Text-Generation
+# Deep Learning - Text Generation
 The goal of this assignment is to create an Character Level Text Generation RNN model that predicts the next character given all of the preceding characters in a sequence of data specified by the user using the input() method, resulting in a 400-character paragraph. 
 
 **Approach** <br>
